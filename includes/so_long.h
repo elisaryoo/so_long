@@ -18,9 +18,7 @@
 # include "../mlx_linux/mlx.h"
 # include <stdio.h>
 # include <unistd.h>
-# include <stdio.h>
 # include <fcntl.h>
-# include <limits.h>
 
 typedef struct s_game
 {
